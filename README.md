@@ -103,7 +103,15 @@ Our stakeholders are the sales team so let's breakdown the results/insights we h
 
 ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/61572ab1-2dc4-4058-be35-f99ceef7977f)
 
-48% of the customers which equals 481 customers whose data was collected purchased a bike while 52% of them did not purchase. This can be considered a positive sign expecially if the company is planning to increase bike sales. 
+48% of the customers which equals 481 customers whose data was collected purchased a bike while 52% of them did not purchase. 
+
+This can be considered a positive sign especially if the company is planning to increase bike sales. The purchase rate indicates a notable demand for bikes by customers. If there are effective marketing startegies in the company to capitalize this demand, then this is particulary positive. 
+
+**2. Is there a correlation between income levels,age, and commute distance and the likelihood of purchasing a bike?** 
+
+
+
+
 
 
 
