@@ -53,9 +53,9 @@ The process phase includes cleaning and transforming the data to ensure intergri
    
    Gender: F to Female, and M to Male.
 
-   The currency in the "Income" column has two zeros. To make it more presentable and easy to visualize in charts, I removed the number of zeros.
+   The currency in the *"Income"* column has two zeros. To make it more presentable and easy to visualize in charts, I removed the number of zeros.
 
-   In the *Commute Distance* column, the "10+ miles" which is the largest distance lies as the second in the list.
+   In the *"Commute Distance"* column, the "10+ miles" which is the largest distance lies as the second in the list.
 
    ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/42b2074d-ddbc-4b78-8f07-2e010dbb047f)
 
