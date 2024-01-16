@@ -87,7 +87,7 @@ The analyze stage of the analysis includes using the cleaned and transformed dat
 
 The dahsboard after the analysis looks like this: 
 
-![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/d830bc9a-85c6-445e-b369-8473560e358f)
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/c0b10e8e-ff6e-4993-a8ee-49d417fec502)
 
 
 **Breaking down the Dashboard** 
@@ -145,6 +145,13 @@ Practically biking is seen as a convenient, and eco friendly mode of transportat
 ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/abfcce4f-09ba-4258-951e-e0fcac6f3a3e)
 
 Professional Occupations are more likely to to result in bike purchases (150 purchases) followed by skilled manual occupations (115 Bike purchases). 
+
+**4. Is there a correlation between education levels, and bike purchases?**
+
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/0908e621-133a-4823-9a97-521716a89a6e)
+
+Customers with a Bachelors have the highest likelihood of purchasing a bike (169 Bike Purchases) followed by partial college customers (119 Bike Purchases).
+
 
 
 
