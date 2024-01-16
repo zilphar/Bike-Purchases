@@ -27,8 +27,9 @@ The Table has 1027 rows and 13 columns. Data contained in each column:
 13. Purchased Bike - Identifies whether the customer bought a bike or not.
 
 **1. ASK**
-This phase of the analysis includes asking the right questions to answer the goals and objectives of your stakeholders. 
-In this dataset we get to answer the follwing questions concerning key performance indicators(KPI):
+
+This phase of the analysis includes asking the right questions to answer the goals and objectives of your stakeholders.
+In this dataset we get to answer the follwing questions concerning *key performance indicators(KPI)*:
 
 1. What is the percentage of people who purchased a bike?
 2. Is there a correlation between income levels,age, and commute distance and the likelihood of purchasing a bike?
@@ -36,6 +37,12 @@ In this dataset we get to answer the follwing questions concerning key performan
 4. Is there a correlation between age, education levels, and bike purchases?
 
 **2. PREPARE**
+
+Preparing phase includes identifying the data that is required to answer the stakeholder questions. In this case we have the *"Bike Purchase"* dataset to work with. 
+
+**3. PROCESS**
+
+
 
 
    
