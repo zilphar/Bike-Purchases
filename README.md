@@ -81,6 +81,14 @@ The process phase includes cleaning and transforming the data to ensure intergri
 
 The analyze stage of the analysis includes using the cleaned and transformed data to draw conclusions that are data driven. 
 
+The dahsboard after the analysis looks like this: ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/af07204f-f08b-46d8-beb5-2963f849992b)
+
+**Breaking down the Dashboard** 
+
+The dashboard answers ***The four questions*** of the stakeholders. 
+
+
+
 
 
 
