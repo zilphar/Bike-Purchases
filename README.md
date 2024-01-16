@@ -68,6 +68,7 @@ The process phase includes cleaning and transforming the data to ensure intergri
 
    The final table looks like this:![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/1af965f9-7c60-4f49-8fb6-6e58969e3f56)
 
+****<ins>4. ANALYZE</ins>****
 
 
 
