@@ -51,8 +51,10 @@ Preparing phase includes identifying the data that is required to answer the sta
 
 The process phase includes cleaning and transforming the data to ensure intergrity. 
 1. Freezing the first row which contains the column headers and bolding it. 
-2. Removing duplicates (Data tab --> Remove duplicates). 26 duplicate values were removed leading to remainder of 1001 rows. ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/83bbe42f-7b95-4669-bd95-416f6c9ea9a9)
-3. Checked the data contained in each column to ensure no blanks.
+2. Removing duplicates (Data tab --> Remove duplicates). 26 duplicate values were removed leading to remainder of 1001 rows.
+
+    ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/83bbe42f-7b95-4669-bd95-416f6c9ea9a9)
+4. Checked the data contained in each column to ensure no blanks.
 
    The naming convention for the *"Marital Status"* and the *"Gender"* column are a possibility of confusion. Changed the naming to:
 
@@ -75,13 +77,18 @@ The process phase includes cleaning and transforming the data to ensure intergri
    I did this using the Nested IF formula in excel: **=IF(L2>54, "Old age", IF(L2>30, "Middle age", IF(L2<31, "Young age"))).** 
    This grouped the customers with age **55 and above as Old age**, **31 to 54 years as Middle age**, and **30 years and below as Young age.**
 
-   The final table looks like this with 1001 rows and 14 columns:![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/1af965f9-7c60-4f49-8fb6-6e58969e3f56)
+   The final table looks like this with 1001 rows and 14 columns:
+
+   ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/1af965f9-7c60-4f49-8fb6-6e58969e3f56)
 
 ****<ins>4. ANALYZE</ins>****
 
 The analyze stage of the analysis includes using the cleaned and transformed data to draw conclusions that are data driven. 
 
-The dahsboard after the analysis looks like this: ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/af07204f-f08b-46d8-beb5-2963f849992b)
+The dahsboard after the analysis looks like this: 
+
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/d830bc9a-85c6-445e-b369-8473560e358f)
+
 
 **Breaking down the Dashboard** 
 
@@ -132,6 +139,10 @@ This can be explained using income and financial stability, and purchase behavio
 Customers who have a shorter commute distance (0 to 1 Miles) have a high likelihood of purchasing a bike. They lead with 200 Bike purchases. 
 
 Practically biking is seen as a convenient, and eco friendly mode of transportation for short distances. Customers with commutes that are 0 to 1 Mile away may find Biking to be convenient and efficient way to travel. 
+
+**3. What types of occupations are more likely to result in bike purchases?**
+
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/fe9f10f6-0e4b-4676-832f-5d2901e831b3)
 
 
 
