@@ -34,7 +34,7 @@ In this dataset we get to answer the following questions concerning *key perform
 1. What is the percentage of people who purchased a bike?
 2. Is there a correlation between income levels,age, and commute distance and the likelihood of purchasing a bike?
 3. What types of occupations are more likely to result in bike purchases?
-4. Is there a correlation between age, education levels, and bike purchases?
+4. Is there a correlation between education levels, and bike purchases?
 
 ****<ins>2. PREPARE</ins>****
 
