@@ -42,6 +42,21 @@ Preparing phase includes identifying the data that is required to answer the sta
 
 ****<ins>3. PROCESS</ins>****
 
+The process phase includes cleaning and transforming the data to ensure intergrity. 
+1. Freezing the first row which contains the column headers and bolding it. 
+2. Removing duplicates (Data tab --> Remove duplicates). 26 duplicate values were removed leading to remainder of 1001 rows. ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/83bbe42f-7b95-4669-bd95-416f6c9ea9a9)
+3. Checked the data contained in each column to ensure no blanks.
+
+   The naming convention for the *"Marital Status"* and the *"Gender"* column are a possibility of confusion. Changed the naming to:
+   Marital status: M to Married, and S to Single. 
+   Gender: F to Female, and M to Male.
+
+   In the *Commute Distance* column, there is the 10+ miles which is the largest distance lies as the second in the list.![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/42b2074d-ddbc-4b78-8f07-2e010dbb047f)
+
+   I renamed the values using *"find and replace"* to "More than 10 Miles". 
+
+
+
 
 
 
