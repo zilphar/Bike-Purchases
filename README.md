@@ -109,6 +109,18 @@ This can be considered a positive sign especially if the company is planning to 
 
 **2. Is there a correlation between income levels,age, and commute distance and the likelihood of purchasing a bike?** 
 
+***Income Levels***
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/d172da75-da39-42df-8ca9-0fa60d40ce56)
+
+When Income levels are high for both Genders, the likelihood of a bike purchase is seen to be high. This couls be as a result of the availability of disposable income, lifestyle or brand recognition. 
+
+High income individuals have more disposable income allowing them to allocat funds to leisure activities. Biking is not only a form of exercise but also a leisure activity that appeals to those with an active lifestyle. High-income individuals may be more inclined to invest in activities that contribute to their well-being and enjoyment.They also place greater emphasis on brand reputation, and product quality, and the overall biking experience. They may be more willing to invest in well-known brands or specialized bikes that offer superior performance.
+
+***Age***
+
+
+
+
 
 
 
