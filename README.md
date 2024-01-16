@@ -26,7 +26,7 @@ The Table has 1027 rows and 13 columns. Data contained in each column:
 12. Age - Identifies the age of the customer.
 13. Purchased Bike - Identifies whether the customer bought a bike or not.
 
-**1. ASK**
+<ins>1. ASK</ins>
 
 This phase of the analysis includes asking the right questions to answer the goals and objectives of your stakeholders.
 In this dataset we get to answer the follwing questions concerning *key performance indicators(KPI)*:
