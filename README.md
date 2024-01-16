@@ -68,7 +68,7 @@ The process phase includes cleaning and transforming the data to ensure intergri
    I did this using the Nested IF formula in excel: **=IF(L2>54, "Old age", IF(L2>30, "Middle age", IF(L2<31, "Young age"))).** 
    This grouped the customers with age **55 and above as Old age**, **31 to 54 years as Middle age**, and **30 years and below as Young age.**
 
-   The final table looks like this:![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/1af965f9-7c60-4f49-8fb6-6e58969e3f56)
+   The final table looks like this with 1001 rows and 14 columns:![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/1af965f9-7c60-4f49-8fb6-6e58969e3f56)
 
 ****<ins>4. ANALYZE</ins>****
 
