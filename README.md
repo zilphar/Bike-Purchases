@@ -29,6 +29,13 @@ The Table has 1027 rows and 13 columns. Data contained in each column:
 ****<ins>1. ASK</ins>****
 
 This phase of the analysis includes asking the right questions to answer the goals and objectives of your stakeholders.
+
+In this phase we get to ask **What is the purpose of the analysis?** and **what are the expectations of the stakeholders?**. 
+
+*#The purpose of this analysis is to derive the trends of Bike purchases in different customer demographics.*
+
+*#The stakeholders in this case is the ****<ins>Sales Team</ins>**** which focuses on directly engaging customers and achieving sales targets. They are also interested in customer demographics and purchasing patterns and an analysis of this dataset will give them an overwiew of how sales have been happening in different customer demographics.* 
+
 In this dataset we get to answer the following questions concerning *key performance indicators(KPI)*:
 
 1. What is the percentage of people who purchased a bike?
@@ -72,6 +79,7 @@ The process phase includes cleaning and transforming the data to ensure intergri
 
 ****<ins>4. ANALYZE</ins>****
 
+The analyze stage of the analysis includes using the cleaned and transformed data to draw conclusions that are data driven. 
 
 
 
