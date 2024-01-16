@@ -53,11 +53,23 @@ The process phase includes cleaning and transforming the data to ensure intergri
    
    Gender: F to Female, and M to Male.
 
-   In the *Commute Distance* column, there is the 10+ miles which is the largest distance lies as the second in the list.
+   In the *Commute Distance* column, the "10+ miles" which is the largest distance lies as the second in the list.
 
    ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/42b2074d-ddbc-4b78-8f07-2e010dbb047f)
 
-   I renamed the values using *"find and replace"* to "More than 10 Miles". 
+   I renamed the values using *"find and replace"* to "More than 10 Miles". Renaming it bring it down as the last in the list.
+
+   ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/7507c866-7fa1-44a2-a36f-238d8f386378)
+
+4. As for the "Age column", I created another "Age bracket" Column for easy representation of the age brackets where the customers lie.
+
+   I did this using the Nested IF formula in excel: **=IF(L2>54, "Old age", IF(L2>30, "Middle age", IF(L2<31, "Young age"))).** 
+   This grouped the customers with age **55 and above as Old age**, **31 to 54 years as Middle age**, and **30 years and below as Young age.**
+
+   The final table looks like this:![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/1af965f9-7c60-4f49-8fb6-6e58969e3f56)
+
+
+
 
 
 
