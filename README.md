@@ -48,10 +48,14 @@ The process phase includes cleaning and transforming the data to ensure intergri
 3. Checked the data contained in each column to ensure no blanks.
 
    The naming convention for the *"Marital Status"* and the *"Gender"* column are a possibility of confusion. Changed the naming to:
-   Marital status: M to Married, and S to Single. 
+
+   Marital status: M to Married, and S to Single.
+   
    Gender: F to Female, and M to Male.
 
-   In the *Commute Distance* column, there is the 10+ miles which is the largest distance lies as the second in the list.![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/42b2074d-ddbc-4b78-8f07-2e010dbb047f)
+   In the *Commute Distance* column, there is the 10+ miles which is the largest distance lies as the second in the list.
+
+   ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/42b2074d-ddbc-4b78-8f07-2e010dbb047f)
 
    I renamed the values using *"find and replace"* to "More than 10 Miles". 
 
