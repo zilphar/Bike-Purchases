@@ -53,6 +53,8 @@ The process phase includes cleaning and transforming the data to ensure intergri
    
    Gender: F to Female, and M to Male.
 
+   The currency in the "Income" column has two zeros. To make it more presentable and easy to visualize in charts, I removed the number of zeros.
+
    In the *Commute Distance* column, the "10+ miles" which is the largest distance lies as the second in the list.
 
    ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/42b2074d-ddbc-4b78-8f07-2e010dbb047f)
@@ -61,7 +63,7 @@ The process phase includes cleaning and transforming the data to ensure intergri
 
    ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/7507c866-7fa1-44a2-a36f-238d8f386378)
 
-4. As for the "Age column", I created another "Age bracket" Column for easy representation of the age brackets where the customers lie.
+5. As for the "Age column", I created another "Age bracket" Column for easy representation of the age brackets where the customers lie.
 
    I did this using the Nested IF formula in excel: **=IF(L2>54, "Old age", IF(L2>30, "Middle age", IF(L2<31, "Young age"))).** 
    This grouped the customers with age **55 and above as Old age**, **31 to 54 years as Middle age**, and **30 years and below as Young age.**
