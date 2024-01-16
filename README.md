@@ -10,7 +10,7 @@ To create the best dashboards to communicate your analysis, it is important to u
 
 ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/cc65c36f-b8bf-4ad6-abd7-704158a2656b)
 
-The Table has 1027 rows and 13 columns. Datatypes contained in each column:
+The Table has 1027 rows and 13 columns. Data contained in each column:
 
 1. ID - This is the primary key that identifies each of the customers 
 2. Marital status - Identifies the status of teh customers either married or single.
