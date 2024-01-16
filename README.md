@@ -85,7 +85,25 @@ The dahsboard after the analysis looks like this: ![image](https://github.com/zi
 
 **Breaking down the Dashboard** 
 
-The dashboard answers ***The four questions*** of the stakeholders. 
+*The dashboard answers ***The four questions*** of the stakeholders.*
+
+From the analysis, **The title of the dashboard** indicates what the analysis is about. After that is the main visualizations that align with the objectives of the stakeholders. 
+
+The left side contains slicers which act as filters for the visualizations. *For example let say you want to view the visualizations analytics for only female customers, then that will include pressing on the **Female** part of the **Gender** slicer.* 
+
+
+****<ins>5. SHARE</ins>****
+The share phase of analysis includes intepreting and communicating results to stakeholders to make data driven decisions. 
+
+Our stakeholders are the sales team so let's breakdown the results/insights we have gathered from the analysis by answering the four questions. 
+
+
+**1. What is the percentage of people who purchased a bike?** 
+
+
+
+
+
 
 
 
