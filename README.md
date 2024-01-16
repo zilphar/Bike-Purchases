@@ -93,12 +93,17 @@ The left side contains slicers which act as filters for the visualizations. *For
 
 
 ****<ins>5. SHARE</ins>****
+
 The share phase of analysis includes intepreting and communicating results to stakeholders to make data driven decisions. 
 
 Our stakeholders are the sales team so let's breakdown the results/insights we have gathered from the analysis by answering the four questions. 
 
 
 **1. What is the percentage of people who purchased a bike?** 
+
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/61572ab1-2dc4-4058-be35-f99ceef7977f)
+
+48% of the customers which equals 481 customers whose data was collected purchased a bike while 52% of them did not purchase. This can be considered a positive sign expecially if the company is planning to increase bike sales. 
 
 
 
