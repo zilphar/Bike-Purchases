@@ -125,7 +125,7 @@ Middle age customers (31 to 54 years) have the highest likelihood of purchasing 
 
 This can be explained using income and financial stability, and purchase behaviors. Middle-aged customers often have higher income levels and greater financial stability compared to younger customers who might still be in the early stages of their careers. The ability to afford purchases, such as bikes, is often tied to financial standing. Also, Younger individuals, particularly those in their early career stages, may have demanding work schedules and time commitments that limit their engagement in recreational activities. Middle-aged individuals, who may have achieved a more stable work-life balance, could have more time for hobbies like biking.
 
-**Commute Distance**
+***Commute Distance***
 
 ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/8c41f24c-c6bd-45c3-8567-22af0795be87)
 
