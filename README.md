@@ -19,9 +19,9 @@ The Table has 1027 rows and 13 columns. Data contained in each column:
 5. Children - Identifies the number of children the customers have.
 6. Education - Identifies the level of education the customer has reached.
 7. Occupation - Identifies the occupation of the customer.
-8. Home owner - identifies whether the customer owns a home.
+8. Home owner - Identifies whether the customer owns a home.
 9. Cars - Identifies the number of cars the customers has.
-10. Commute Distance - identifies the Distance from the bike company to the customers place of living.
+10. Commute Distance - Identifies how long te customer commute distance is.
 11. Region - Identifies the location of the customer
 12. Age - Identifies the age of the customer.
 13. Purchased Bike - Identifies whether the customer bought a bike or not.
@@ -110,6 +110,7 @@ This can be considered a positive sign especially if the company is planning to 
 **2. Is there a correlation between income levels,age, and commute distance and the likelihood of purchasing a bike?** 
 
 ***Income Levels***
+
 ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/d172da75-da39-42df-8ca9-0fa60d40ce56)
 
 When Income levels are high for both Genders, the likelihood of a bike purchase is seen to be high. This couls be as a result of the availability of disposable income, lifestyle or brand recognition. 
@@ -117,6 +118,23 @@ When Income levels are high for both Genders, the likelihood of a bike purchase 
 High income individuals have more disposable income allowing them to allocat funds to leisure activities. Biking is not only a form of exercise but also a leisure activity that appeals to those with an active lifestyle. High-income individuals may be more inclined to invest in activities that contribute to their well-being and enjoyment.They also place greater emphasis on brand reputation, and product quality, and the overall biking experience. They may be more willing to invest in well-known brands or specialized bikes that offer superior performance.
 
 ***Age***
+
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/2a42f9a6-051c-401a-b7ab-1f2ac0830216)
+
+Middle age customers (31 to 54 years) have the highest likelihood of purchasing Bikes leading with a total of 383 purchases. The young age customers (below 30 years) are less likely to purchases a bike lagging with a total of 39 purchases. 
+
+This can be explained using income and financial stability, and purchase behaviors. Middle-aged customers often have higher income levels and greater financial stability compared to younger customers who might still be in the early stages of their careers. The ability to afford purchases, such as bikes, is often tied to financial standing. Also, Younger individuals, particularly those in their early career stages, may have demanding work schedules and time commitments that limit their engagement in recreational activities. Middle-aged individuals, who may have achieved a more stable work-life balance, could have more time for hobbies like biking.
+
+**Commute Distance**
+
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/8c41f24c-c6bd-45c3-8567-22af0795be87)
+
+Customers who have a shorter commute distance (0 to 1 Miles) have a high likelihood of purchasing a bike. They lead with 200 Bike purchases. 
+
+Practically biking is seen as a convenient, and eco friendly mode of transportation for short distances. Customers with commutes that are 0 to 1 Mile away may find Biking to be convenient and efficient way to travel. 
+
+
+
 
 
 
