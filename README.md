@@ -80,7 +80,7 @@ The process phase includes cleaning and transforming the data to ensure intergri
    I did this using the Nested IF formula in excel: **=IF(L2>54, "Old age", IF(L2>30, "Middle age", IF(L2<31, "Young age"))).** 
    This grouped the customers with age **55 and above as Old age**, **31 to 54 years as Middle age**, and **30 years and below as Young age.**
 
-   The final table looks like this with 1001 rows and 14 columns:
+   The final table looks like this with 1000 rows and 14 columns:
 
    ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/1af965f9-7c60-4f49-8fb6-6e58969e3f56)
 
@@ -92,6 +92,14 @@ The dahsboard after the analysis looks like this:
 
 ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/a38cfcc0-6416-4177-933d-eb86b6376515)
 
+The maximum customer income calculated using =MAX() = $170,000 
+
+The minimum customer income =MIN() = $10,000
+
+The average customer income =AVERAGE() = $ 56,360 
+
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/34f59f05-3ec7-47b2-987c-a3965bd1f34d)
+
 
 **Breaking down the Dashboard** 
 
@@ -100,6 +108,7 @@ The dahsboard after the analysis looks like this:
 From the analysis, **The title of the dashboard** indicates what the analysis is about. After that is the main visualizations that align with the objectives of the stakeholders. 
 
 The left side contains slicers which act as filters for the visualizations. *For example let say you want to view the visualizations analytics for only female customers, then that will include pressing on the **Female** part of the **Gender** slicer.* 
+
 
 
 ****<ins>5. SHARE</ins>****
