@@ -1,5 +1,8 @@
 # Bike-Purchases
-To create the best dashboards to communicate your analysis, it is important to understand the specific needs and objectives of stakeholders. In this Project, I will dive into the phases of data analysis including:
+
+Bike purchase is an analysis that will provide insights on the different customer segments and their Bike purchase patterns. The analysis will be valuable to the business which is seeking to understand their customers and shape their market and sales through strategic and informed decision making. 
+
+To be able to communicate an analysis, it is important to understand the specific needs and objectives of stakeholders. In this Project, I will dive into the phases of data analysis including:
 1. ASK
 2. PREPARE
 3. PROCESS
@@ -164,10 +167,11 @@ This can be explained in the context of disposable income and health and wellnes
 
 3. There is need for more data also which should include the Dates for the sales to be able to derive insights on the performnce of sales through a period span. This would be good for the sales team to identify    which days, months, or year had the best impact on sales and why or the ones with least sales and why. Gaining this information is useful to the team to identify potential areas that need growth and how         they can strategize to improve on sales during those times. 
 
-4. *Also feedback from the customers would be much needed. This would allow the sales team to understand why customers from different segmentations prefer their Bikes instead of making assumptions. Giving out questionaries or asking the customer directly when they make a purchase would allow the sales team to get the reasons.*
+4. *Also feedback from the customers would be much needed. This would allow the sales team to understand why customers from different segmentations prefer their Bikes. Getting this information would cut off         making assumptions as to why customers prefer their Bikes. Giving out questionaries or asking the customer directly when they make a purchase would allow the sales team to get the reasons for better             planning.*
 
 ****Conclusion****
-Working on this project has helped build my problem solving skills. Being able to work with data all through from knowing the expetations of the stakeholders to the giving recommendations has been one great experience which has build my confidence on working with data. 
+
+Working on this project has helped build my problem solving and critical thinking skills. Being able to work with data all through from knowing the expetations of the stakeholders to giving recommendations has been one great experience which has build my confidence on working with data. 
 
 *I have able to ask the right questions to understand the objectives, clean and transform the data to ensure integrity, analyze it to draw insights, share the derived insights that match with the expectations of the stakeholders and give recommendations.* 
 
