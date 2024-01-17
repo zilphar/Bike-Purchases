@@ -88,7 +88,7 @@ The process phase includes cleaning and transforming the data to ensure intergri
 
 The analyze stage of the analysis includes using the cleaned and transformed data to draw conclusions that are data driven. 
 
-The dahsboard after the analysis looks like this: 
+The dashboard after the analysis looks like this: 
 
 ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/a38cfcc0-6416-4177-933d-eb86b6376515)
 
@@ -182,7 +182,7 @@ This can be explained in the context of disposable income and health and wellnes
 
 Working on this project has helped build my problem solving and critical thinking skills. Being able to work with data all through from knowing the expetations of the stakeholders to giving recommendations has been one great experience which has build my confidence on working with data. 
 
-*I have able to ask the right questions to understand the objectives, clean and transform the data to ensure integrity, analyze it to draw insights, share the derived insights that match with the expectations of the stakeholders and give recommendations.* 
+*I have been able to ask the right questions to understand the objectives, clean and transform the data to ensure integrity, analyze it to draw insights, share the derived insights that match with the expectations of the stakeholders and give recommendations.* 
 
 
 
