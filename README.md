@@ -180,7 +180,7 @@ This can be explained in the context of disposable income and health and wellnes
 
 ****Conclusion****
 
-Working on this project has helped build my problem solving and critical thinking skills. Being able to work with data all through from knowing the expetations of the stakeholders to giving recommendations has been one great experience which has build my confidence on working with data. 
+Working on this project has helped build my problem solving and critical thinking skills. Being able to work with data all through from knowing the expectations of the stakeholders to giving recommendations has been one great experience which has build my confidence on working with data. 
 
 *I have been able to ask the right questions to understand the objectives, clean and transform the data to ensure integrity, analyze it to draw insights, share the derived insights that match with the expectations of the stakeholders and give recommendations.* 
 
