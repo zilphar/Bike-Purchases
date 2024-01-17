@@ -146,11 +146,30 @@ Practically biking is seen as a convenient, and eco friendly mode of transportat
 
 Professional Occupations are more likely to to result in bike purchases (150 purchases) followed by skilled manual occupations (115 Bike purchases). 
 
+This can be explained by using either lifestyle or the health and fitness conciousness. For example Professionals often work in urban settings where biking infrastructure is more developed. Urban environments with bike lanes, bike-sharing programs, and a general emphasis on sustainable transportation can encourage professionals to choose biking for commuting. Also, Professionals may place a higher emphasis on health and fitness as part of their lifestyle. Biking offers an opportunity for physical exercise, and professionals may be more inclined to integrate such activities into their daily routines.
+
 **4. Is there a correlation between education levels, and bike purchases?**
 
 ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/0908e621-133a-4823-9a97-521716a89a6e)
 
-Customers with a Bachelors have the highest likelihood of purchasing a bike (169 Bike Purchases) followed by partial college customers (119 Bike Purchases).
+Customers with a Bachelors have the highest likelihood of purchasing a bike (169 Bike Purchases) followed by partial college customers (119 Bike Purchases). 
+
+This can be explained in the context of disposable income and health and wellness conciousness. For example customers with higher educational attainment, such as those with a Bachelor's degree, may have greater economic capacity. They may be more financially stable and have disposable income to allocate to non-essential purchases, including recreational items like bikes.
+
+****Recommendations****
+
+1. The Bike company should implement targeted marketing campaigns tailored to the preferences and needs of these segments, such as professionals, individuals with higher education levels, and those with shorter    commute distances. Develop promotional strategies that highlight the benefits of biking aligned with the identified preferences. Highlight how biking contributes to an active and healthy lifestyle, promotes     environmental sustainability, and offers a convenient and enjoyable mode of transportation. Develop content that resonates with the values and priorities of the identified customer segments to create a          compelling narrative around bike ownership.
+
+2. Acknowledge the economic considerations of customers with varying income levels. Implement flexible financing options, installment plans, or special promotions to make bikes more accessible to a broader        range of customers. Communicate these financing options prominently in marketing materials to address affordability concerns and encourage purchasing decisions.
+
+3. There is need for more data also which should include the Dates for the sales to be able to derive insights on the performnce of sales through a period span. This would be good for the sales team to identify    which days, months, or year had the best impact on sales and why or the ones with least sales and why. Gaining this information is useful to the team to identify potential areas that need growth and how         they can strategize to improve on sales during those times. 
+
+4. *Also feedback from the customers would be much needed. This would allow the sales team to understand why customers from different segmentations prefer their Bikes instead of making assumptions. Giving out questionaries or asking the customer directly when they make a purchase would allow the sales team to get the reasons.*
+
+****Conclusion****
+Working on this project has helped build my problem solving skills. Being able to work with data all through from knowing the expetations of the stakeholders to the giving recommendations has been one great experience which has build my confidence on working with data. 
+
+*I have able to ask the right questions to understand the objectives, clean and transform the data to ensure integrity, analyze it to draw insights, share the derived insights that match with the expectations of the stakeholders and give recommendations.* 
 
 
 
