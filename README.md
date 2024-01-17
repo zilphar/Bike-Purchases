@@ -105,7 +105,7 @@ The average customer income =AVERAGE() = $ 56,360
 
 *The dashboard answers ***The four questions*** of the stakeholders.*
 
-From the analysis, **The title of the dashboard** indicates what the analysis is about. After that is the main visualizations that align with the objectives of the stakeholders. 
+From the analysis, **The title of the dashboard** indicates what the analysis is about. After that is the main visualizations that aligns with the objectives of the stakeholders. 
 
 The left side contains slicers which act as filters for the visualizations. *For example let say you want to view the visualizations analytics for only female customers, then that will include pressing on the **Female** part of the **Gender** slicer.* 
 
