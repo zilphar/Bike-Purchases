@@ -176,7 +176,7 @@ This can be explained in the context of disposable income and health and wellnes
 
 3. There is need for more data also which should include the Dates for the sales to be able to derive insights on the performnce of sales through a period span. This would be good for the sales team to identify    which days, months, or year had the best impact on sales and why or the ones with least sales and why. Gaining this information is useful to the team to identify potential areas that need growth and how         they can strategize to improve on sales during those times. 
 
-4. *Also feedback from the customers would be much needed. This would allow the sales team to understand why customers from different segmentations prefer their Bikes. Getting this information would cut off         making assumptions as to why customers prefer their Bikes. Giving out questionaries or asking the customer directly when they make a purchase would allow the sales team to get the reasons for better             planning.*
+4. *Also feedback from the customers would be much needed. This would allow the sales team to understand why customers from different segmentations prefer their Bikes. Getting this information would cut off         making assumptions as to why customers prefer their Bikes. Giving out questionnaires or asking the customer directly when they make a purchase would allow the sales team to get the reasons for better            planning.*
 
 ****Conclusion****
 
