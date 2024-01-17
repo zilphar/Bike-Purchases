@@ -87,7 +87,7 @@ The analyze stage of the analysis includes using the cleaned and transformed dat
 
 The dahsboard after the analysis looks like this: 
 
-![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/c0b10e8e-ff6e-4993-a8ee-49d417fec502)
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/a38cfcc0-6416-4177-933d-eb86b6376515)
 
 
 **Breaking down the Dashboard** 
@@ -120,13 +120,13 @@ This can be considered a positive sign especially if the company is planning to 
 
 ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/d172da75-da39-42df-8ca9-0fa60d40ce56)
 
-When Income levels are high for both Genders, the likelihood of a bike purchase is seen to be high. This couls be as a result of the availability of disposable income, lifestyle or brand recognition. 
+When Income levels are high for both Genders, the likelihood of a bike purchase is seen to be high. This could be as a result of the availability of disposable income, lifestyle or brand recognition. 
 
-High income individuals have more disposable income allowing them to allocat funds to leisure activities. Biking is not only a form of exercise but also a leisure activity that appeals to those with an active lifestyle. High-income individuals may be more inclined to invest in activities that contribute to their well-being and enjoyment.They also place greater emphasis on brand reputation, and product quality, and the overall biking experience. They may be more willing to invest in well-known brands or specialized bikes that offer superior performance.
+High income individuals have more disposable income allowing them to allocate funds to leisure activities. Biking is not only a form of exercise but also a leisure activity that appeals to those with an active lifestyle. High-income individuals may be more inclined to invest in activities that contribute to their well-being and enjoyment.They also place greater emphasis on brand reputation, and product quality, and the overall biking experience. They may be more willing to invest in well-known brands or specialized bikes that offer superior performance.
 
 ***Age***
 
-![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/2a42f9a6-051c-401a-b7ab-1f2ac0830216)
+![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/62433673-5fc5-4061-8a45-e69a9ef094c2)
 
 Middle age customers (31 to 54 years) have the highest likelihood of purchasing Bikes leading with a total of 383 purchases. The young age customers (below 30 years) are less likely to purchases a bike lagging with a total of 39 purchases. 
 
