@@ -7,7 +7,9 @@ To be able to communicate an analysis, it is important to understand the specifi
 2. PREPARE
 3. PROCESS
 4. ANALYZE
-5. SHARE 
+5. SHARE
+
+Tool used for analysis is **Microsoft Excel**
 
 **Overview of the Dataset**
 
