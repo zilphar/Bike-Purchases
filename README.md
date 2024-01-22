@@ -11,7 +11,7 @@ To be able to communicate an analysis, it is important to understand the specifi
 
 Tool used for analysis is **Microsoft Excel**
 
-Provided in the Bike Purchases.xlsx is the cleaned dataset and the final dashboard.
+***Provided in the Bike Purchases.xlsx is the cleaned dataset and the final dashboard.***
 
 **Overview of the Dataset**
 
