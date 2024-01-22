@@ -11,6 +11,8 @@ To be able to communicate an analysis, it is important to understand the specifi
 
 Tool used for analysis is **Microsoft Excel**
 
+Provided in the Bike Purchases.xlsx is the cleaned dataset and the final dashboard.
+
 **Overview of the Dataset**
 
 ![image](https://github.com/zilphar/Bike-Purchases/assets/116642579/cc65c36f-b8bf-4ad6-abd7-704158a2656b)
