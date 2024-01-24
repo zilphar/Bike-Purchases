@@ -2,7 +2,7 @@
 
 Bike purchase is an analysis that will provide insights on the different customer segments and their Bike purchase patterns. The analysis will be valuable to the business which is seeking to understand their customers and shape their market and sales through strategic and informed decision making. 
 
-To be able to communicate an analysis, it is important to understand the specific needs and objectives of stakeholders. In this Project, I will dive into the phases of data analysis including:
+To be able to communicate an analysis, it is important to understand the specific needs and objectives of stakeholders. In this Project, I will dive into the phases of data analysis including: 
 1. ASK
 2. PREPARE
 3. PROCESS
